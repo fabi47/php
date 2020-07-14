@@ -1,18 +1,24 @@
 <?php
 
     echo "10までの和\n";
+
+$sum = 0;
+
 for($i = 1; $i < 11; $i++) {
-$a = $a + $i;
+    $sum += $i;
     
-if($a == 55){
-    echo $a;
-}
+    echo $sum;
+
 }
 
 /*20〜100までの和*/
    echo "\n20~100の和\n";
+
+$sum = 0
 for($i = 20; $i < 101; $i++) {
-    echo $i . ".";
+    $sum += $i;
 }
+    echo $sum;
+
 
  ?>
