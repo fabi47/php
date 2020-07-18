@@ -58,9 +58,7 @@ $psg = array(
             ),
         );
 
-        $ps = 'パリサンジェルマン メンバー　一覧' . "\n";
-
-            echo $ps;
+    echo 'パリサンジェルマン メンバー　一覧' . "\n";
 
         foreach ($psg as $values) {
             foreach ($values as $value) {
