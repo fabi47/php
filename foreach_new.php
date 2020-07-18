@@ -1,60 +1,60 @@
 <?php
 
 $psg = array(
-            "mbappe" =>  array(
+            "mbappe" => array(
                 "name" => "エムバペ",
                 "no." => "7",
-                "position" =>  "CF"
+                "position" => "CF"
             ),
-            "cavani" =>  array(
+            "cavani" => array(
                 "name" => "カバーニ",
                 "no." => "9",
-                "position" =>  "CF"
+                "position" => "CF"
             ),
-            "neymar" =>  array(
+            "neymar" => array(
                 "name" => "ネイマール",
                 "no." => "10",
-                "position" =>  "LMF"
+                "position" => "LMF"
             ),
-            "dimaria" =>  array(
+            "dimaria" => array(
                 "name" => "ディ・マリア	",
                 "no." => "11",
-                "position" =>  "RMF"
+                "position" => "RMF"
             ),
-            "paredes" =>  array(
+            "paredes" => array(
                 "name" => "レアンドロ・パレデス",
                 "no." => "8",
-                "position" =>  "DMF"
+                "position" => "DMF"
             ),
-            "kehrer" =>  array(
+            "kehrer" => array(
                 "name" => "ケーラー",
                 "no." => "4",
-                "position" =>  "DMF"
+                "position" => "DMF"
             ),
-            "bernat" =>  array(
-                "name" => "ベルナト	",
+            "bernat" => array(
+                "name" => "ベルナト",
                 "no." => "14",
-                "position" =>  "LSB"
+                "position" => "LSB"
             ),
-            "meunier" =>  array(
+            "meunier" => array(
                 "name" => "トマ・ムニエ",
                 "no." => "12",
-                "position" =>  "RSB"
+                "position" => "RSB"
             ),
-            "marquinhos" =>  array(
+            "marquinhos" => array(
                 "name" => "マルキーニョス",
                 "no." => "5",
-                "position" =>  "CB"
+                "position" => "CB"
             ),
-            "thiago" =>  array(
+            "thiago" => array(
                 "name" => "チアゴ・シウヴァ",
                 "no." => "2",
-                "position" =>  "CB"
+                "position" => "CB"
             ),
-            "navas" =>  array(
+            "navas" => array(
                 "name" => "ナバス",
                 "no." => "1",
-                "position" =>  "GK"
+                "position" => "GK"
             ),
         );
 
