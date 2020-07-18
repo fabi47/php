@@ -17,7 +17,7 @@ $psg = array(
                 "position" => "LMF"
             ),
             "dimaria" => array(
-                "name" => "ディ・マリア	",
+                "name" => "ディ・マリア",
                 "no." => "11",
                 "position" => "RMF"
             ),
